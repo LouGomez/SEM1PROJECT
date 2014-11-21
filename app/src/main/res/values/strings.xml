@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SEM1project</string>
+    <string name="action_settings">Settings</string>
+    <string name="ustarch">Landmarks</string>
+    <string name="ustbenavides">Landmarks</string>
+    <string name="ustcarpark">Landmarks</string>
+    <string name="usthospital">Landmarks</string>
+    <string name="ustlibrary">Landmarks</string>
+    <string name="ustloverslane">Landmarks</string>
+    <string name="ustmain">Landmarks</string>
+    <string name="ustqpav">Landmarks</string>
+    <string name="fragment_my">UST Guide</string>
+
+</resources>
